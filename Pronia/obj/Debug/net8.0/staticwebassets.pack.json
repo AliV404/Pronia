@@ -441,6 +441,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\user\\3.png"
     },
     {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1--1rnu4p.png"
     },
@@ -637,8 +641,24 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\card.png"
     },
     {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\daisy1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\daisy1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\daisy2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\daisy2.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\lilium1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\lilium1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\lilium2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\lilium2.webp"
     },
     {
       "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\plant1.jpg",
@@ -657,8 +677,24 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\quotation.png"
     },
     {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\rose 1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\rose 1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\rose 2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\rose 2.jpg"
+    },
+    {
       "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\service.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\sunflower1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\sunflower1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\sunflower2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\sunflower2.jpeg"
     },
     {
       "Id": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\js\\main.js",
