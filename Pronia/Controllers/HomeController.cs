@@ -48,7 +48,7 @@ namespace Pronia.Controllers
 
             HomeVM homeVM = new HomeVM
             {
-                Slides = slides.OrderBy(s => s.Order).Take(2).ToList(),
+                Slides = _context.Slides.OrderBy(s => s.Order).Take(2).ToList(),
             };
 
             return View(homeVM);
