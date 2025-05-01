@@ -166,6 +166,7 @@ wwwroot\assets\images\website-images\lilium2.webp
 wwwroot\assets\images\website-images\plant1.jpg
 wwwroot\assets\images\website-images\plant2.jpg
 wwwroot\assets\images\website-images\plant3.jpg
+wwwroot\assets\images\website-images\plant4.jpg
 wwwroot\assets\images\website-images\quotation.png
 wwwroot\assets\images\website-images\rose 1.jpeg
 wwwroot\assets\images\website-images\rose 2.jpg
