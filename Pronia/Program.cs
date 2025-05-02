@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer("server=VICTUS\\SQLEXPRESS; database=ProniaDB;trusted_connection=true; integrated security=true; TrustServerCertificate=true;");
+    opt.UseSqlServer(builder.Configuration["ConnectionStrings:Default"]);
 });
 
 var app = builder.Build();
@@ -17,6 +17,12 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=home}/{action=index}/{id?}"
     );
+
+app.MapControllerRoute(
+    name: "admin",
+    pattern: "{area=exists}/{controller=home}/{action=index}/{id?}"
+    );
+
 
 
 app.Run();
