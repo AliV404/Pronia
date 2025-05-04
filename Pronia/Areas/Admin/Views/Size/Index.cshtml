@@ -1,4 +1,4 @@
-﻿@model List<Category>
+﻿@model List<Size>
 @{
     int count = 0;
 }
@@ -7,7 +7,7 @@
     <div class="col-lg-12 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Categories Table</h4>
+                <h4 class="card-title">Sizes Table</h4>
                 <div class="table-responsive">
                     <a asp-action="create" class="btn btn-success">Create</a>
                     <table class="table table-striped">
@@ -27,11 +27,11 @@
                                 </th>
                                 <th>
                                     Settings
-                                </th>                     
+                                </th>
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach(Category category in Model)
+                            @foreach (Size size in Model)
                             {
                                 count++;
                                 <tr>
@@ -39,27 +39,25 @@
                                         @count
                                     </td>
                                     <td>
-                                        @category.Name
+                                        @size.Name
                                     </td>
                                     <td>
-                                        @category.Products.Count
+                                        None
                                     </td>
                                     <td>
-                                        @category.CreatedAt.ToString("d MMMM yyyy")
+                                        @size.CreatedAt.ToString("d MMMM yyyy")
                                     </td>
                                     <td>
-                                        <a class="btn btn-warning" asp-action="update" asp-route-id="@category.Id"><i class="mdi mdi-table-edit"></i></a>
+                                        <a class="btn btn-warning" asp-action="update" asp-route-id="@size.Id"><i class="mdi mdi-table-edit"></i></a>
                                         <a class="btn btn-danger"><i class="mdi mdi-delete-sweep"></i></a>
                                         <a class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
                                     </td>
                                 </tr>
                             }
-                            
-                        
                         </tbody>
                     </table>
                 </div>
             </div>
         </div>
     </div>
-    </div>
+</div>
