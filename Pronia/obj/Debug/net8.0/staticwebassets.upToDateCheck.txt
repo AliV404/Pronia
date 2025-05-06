@@ -238,6 +238,7 @@ wwwroot\assets\images\website-images\2-2-370x270.webp
 wwwroot\assets\images\website-images\2-2-70x78.png
 wwwroot\assets\images\website-images\2-3-70x78.png
 wwwroot\assets\images\website-images\3.png
+wwwroot\assets\images\website-images\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
 wwwroot\assets\images\website-images\daisy1.jpeg

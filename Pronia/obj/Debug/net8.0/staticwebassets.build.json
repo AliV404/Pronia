@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ud3wDOxsxtqbsA/2Grt3gXNZBd693VOwd3fw0aOilvE=",
+  "Hash": "jZvJnv7BLGXXn3HkVMtxVpsb0BYeYY32mQdtUzypiTs=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -5055,6 +5055,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\3.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/8e7a42ac-8ea1-4cd0-8283-1a2c82290345#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d4l5ltvo00",
+      "Integrity": "LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg"
     },
     {
       "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\car.png",
@@ -26100,6 +26121,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-j8VuGsWDJLXCmrBsur0tdSXf6EhYtv2jWoaT96x0dGk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/8e7a42ac-8ea1-4cd0-8283-1a2c82290345.d4l5ltvo00.jpeg",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 07:37:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4l5ltvo00"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 07:37:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs="
         }
       ]
     },
