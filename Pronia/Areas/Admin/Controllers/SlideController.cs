@@ -68,6 +68,58 @@ namespace Pronia.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id is null || id <= 0) return BadRequest();
+
+            Slide? slide = await _context.Slides.FirstOrDefaultAsync(s => s.Id == id);
+
+            if (slide == null) return NotFound();
+                
+            UpdateSlideVM slideVM = new UpdateSlideVM
+            {
+                Title = slide.Title,
+                SubTitle = slide.SubTitle,
+                Description = slide.Description,
+                Order = slide.Order,
+                Image = slide.Image
+            };
+            return View(slideVM);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id, UpdateSlideVM slideVM)
+        {
+            if (!ModelState.IsValid) return View(slideVM);
+
+            Slide? existed = await _context.Slides.FirstOrDefaultAsync(s => s.Id== id);
+            if (existed == null) return NotFound();
+            if (slideVM.Photo is not null)
+            {
+                if (!slideVM.Photo.ValidateType("image/"))
+                {
+                    ModelState.AddModelError(nameof(UpdateSlideVM.Photo), "File type is not valid!");
+                    return View(slideVM);
+                }
+                if (!slideVM.Photo.ValidateSize(FileSize.MB, 2))
+                {
+                    ModelState.AddModelError(nameof(UpdateSlideVM.Photo), "File size can not be greater than 2MB!");
+                    return View(slideVM);
+                }
+                string fileName = await slideVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "images", "website-images");
+                existed.Image.DeleteFile(_env.WebRootPath, "assets", "images", "website-images");
+                existed.Image = fileName;
+            }
+
+            existed.Order = slideVM.Order;
+            existed.Title = slideVM.Title;
+            existed.Description = slideVM.Description;
+            existed.SubTitle = slideVM.SubTitle;
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
         public async Task<IActionResult> Delete(int? id)
         {
             if (id is null || id < 1) return BadRequest();
