@@ -238,12 +238,16 @@ wwwroot\assets\images\website-images\2-2-370x270.webp
 wwwroot\assets\images\website-images\2-2-70x78.png
 wwwroot\assets\images\website-images\2-3-70x78.png
 wwwroot\assets\images\website-images\3.png
-wwwroot\assets\images\website-images\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg
+wwwroot\assets\images\website-images\30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3.webp
+wwwroot\assets\images\website-images\48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3.webp
+wwwroot\assets\images\website-images\862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3.webp
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
 wwwroot\assets\images\website-images\daisy1.jpeg
 wwwroot\assets\images\website-images\daisy2.jpeg
 wwwroot\assets\images\website-images\dark.png
+wwwroot\assets\images\website-images\e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3.webp
+wwwroot\assets\images\website-images\fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2.jpg
 wwwroot\assets\images\website-images\lilium1.jpg
 wwwroot\assets\images\website-images\lilium2.webp
 wwwroot\assets\images\website-images\plant1.jpg

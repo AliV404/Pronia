@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jZvJnv7BLGXXn3HkVMtxVpsb0BYeYY32mQdtUzypiTs=",
+  "Hash": "ShvT//xcDERLD9FDJShHFQMsX/upMaU2b9825nndqQg=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -5057,12 +5057,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\3.png"
     },
     {
-      "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg",
+      "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3.webp",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\",
       "BasePath": "_content/Pronia",
-      "RelativePath": "assets/images/website-images/8e7a42ac-8ea1-4cd0-8283-1a2c82290345#[.{fingerprint}]?.jpeg",
+      "RelativePath": "assets/images/website-images/30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3#[.{fingerprint}]?.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5071,11 +5071,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d4l5ltvo00",
-      "Integrity": "LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs=",
+      "Fingerprint": "aywc12bb6c",
+      "Integrity": "0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3.webp",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aywc12bb6c",
+      "Integrity": "0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3.webp",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aywc12bb6c",
+      "Integrity": "0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3.webp"
     },
     {
       "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\car.png",
@@ -5181,6 +5223,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3.webp",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aywc12bb6c",
+      "Integrity": "0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7w5hgn4qsx",
+      "Integrity": "F8SpykMv+q4BLiVGtyg0DGACa/zl7hXP14tZuRH+I4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2.jpg"
     },
     {
       "Identity": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\lilium1.jpg",
@@ -26125,8 +26209,8 @@
       ]
     },
     {
-      "Route": "assets/images/website-images/8e7a42ac-8ea1-4cd0-8283-1a2c82290345.d4l5ltvo00.jpeg",
-      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg",
+      "Route": "assets/images/website-images/30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3.aywc12bb6c.webp",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26135,19 +26219,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10496"
+          "Value": "63294"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/webp"
         },
         {
           "Name": "ETag",
-          "Value": "\"LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs=\""
+          "Value": "\"0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 07:37:51 GMT"
+          "Value": "Wed, 07 May 2025 08:13:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26157,21 +26241,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d4l5ltvo00"
+          "Value": "aywc12bb6c"
         },
         {
           "Name": "label",
-          "Value": "assets/images/website-images/8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg"
+          "Value": "assets/images/website-images/30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3.webp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs="
+          "Value": "sha256-0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A="
         }
       ]
     },
     {
-      "Route": "assets/images/website-images/8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg",
-      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\8e7a42ac-8ea1-4cd0-8283-1a2c82290345.jpeg",
+      "Route": "assets/images/website-images/30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3.webp",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\30bd7b1c-bbd0-4cd6-b4a8-f8a76803fc45flower 3.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26180,19 +26264,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10496"
+          "Value": "63294"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/webp"
         },
         {
           "Name": "ETag",
-          "Value": "\"LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs=\""
+          "Value": "\"0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 07:37:51 GMT"
+          "Value": "Wed, 07 May 2025 08:13:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26202,7 +26286,171 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LbNrAQTPz9UfvMzr9HFw+k7dhvMsgmwJjtxfvPva5Fs="
+          "Value": "sha256-0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3.aywc12bb6c.webp",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 08:18:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aywc12bb6c"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3.webp",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\48e9a2be-0dc0-4635-a844-78250f83ecdfflower 3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 08:18:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3.aywc12bb6c.webp",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 07:22:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aywc12bb6c"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3.webp",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\862d12c6-7ac0-4522-b7ef-79f6ad3a0281flower 3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 07:22:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A="
         }
       ]
     },
@@ -26613,6 +26861,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-yuOSJKUr0p7kHTBsA6vrPtw3DxSrZ4HSRYSuY0y9x14="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3.aywc12bb6c.webp",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 08:18:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aywc12bb6c"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3.webp",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\e2841061-1a70-4b30-8ebf-d634fa17e32cflower 3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 08:18:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0oow4OhJhzxgSEEGHxqgcuZy4M/wMoID/UJGZCA8i3A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2.7w5hgn4qsx.jpg",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F8SpykMv+q4BLiVGtyg0DGACa/zl7hXP14tZuRH+I4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 07:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7w5hgn4qsx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F8SpykMv+q4BLiVGtyg0DGACa/zl7hXP14tZuRH+I4g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2.jpg",
+      "AssetFile": "C:\\Users\\Ali\\source\\repos\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fda726c7-bbd5-49fc-9f13-eec778e5f88dflower 2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F8SpykMv+q4BLiVGtyg0DGACa/zl7hXP14tZuRH+I4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 07:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F8SpykMv+q4BLiVGtyg0DGACa/zl7hXP14tZuRH+I4g="
         }
       ]
     },
