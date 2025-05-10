@@ -19,7 +19,7 @@ namespace Pronia.Controllers
 
             HomeVM homeVM = new HomeVM
             {
-                Slides = _context.Slides.OrderBy(s => s.Order).Take(3).ToList(),
+                Slides = _context.Slides.OrderBy(s => s.Order).Take(4).ToList(),
                 Products = _context.Products.Take(8).Include(p => p.ProductImages.Where(pi => pi.IsPrimary != null)).ToList(),
             }; ;
 

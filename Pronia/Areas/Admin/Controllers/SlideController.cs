@@ -66,7 +66,7 @@ namespace Pronia.Areas.Admin.Controllers
 
             await _context.AddAsync(slide);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Index)); 
         }
 
         public async Task<IActionResult> Update(int? id)
@@ -134,10 +134,5 @@ namespace Pronia.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-
-    
-      
-
-       
     }
 }
