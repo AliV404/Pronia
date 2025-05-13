@@ -11,9 +11,9 @@ namespace Pronia.ViewModels
         [DataType(DataType.Password)]
         [Compare(nameof(Password))]
         public string ConfirmPassword { get; set; }
-        [MaxLength(100)]
+        [MaxLength(126)]
         public string UserName { get; set; }
-        [MaxLength(200)]
+        [MaxLength(256)]
         [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
 

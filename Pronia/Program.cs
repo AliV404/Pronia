@@ -21,11 +21,13 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 var app = builder.Build();
 
+app.UseAuthentication();
+app.UseAuthorization();
 app.UseStaticFiles();
 
 app.MapControllerRoute(
     name: "admin",
-    pattern: "{area=exists}/{controller=home}/{action=index}"
+    pattern: "{area:exists}/{controller=home}/{action=index}"
     );
 
 app.MapControllerRoute(

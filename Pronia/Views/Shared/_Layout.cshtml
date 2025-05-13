@@ -6,12 +6,12 @@
     <title>Pronia - Plant Store Bootstrap 5 Template</title>
     <meta name="robots" content="index, follow" />
     <meta name="description"
-          content="Pronia plant store bootstrap 5 template is an awesome website template for any home plant shop." />
+    content="Pronia plant store bootstrap 5 template is an awesome website template for any home plant shop." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Favicon -->
     <link rel="shortcut icon"
-          type="image/x-icon"
-          href="~/assets/images/favicon.ico" />
+    type="image/x-icon"
+    href="~/assets/images/favicon.ico" />
 
     <!-- CSS
     ============================================ -->
@@ -55,30 +55,30 @@
                                 <ul class="dropdown-wrap">
                                     <li class="dropdown">
                                         <button class="btn btn-link dropdown-toggle ht-btn"
-                                                type="button"
-                                                id="currencyButton"
-                                                data-bs-toggle="dropdown"
-                                                aria-label="currency"
-                                                aria-expanded="false">
+                                        type="button"
+                                        id="currencyButton"
+                                        data-bs-toggle="dropdown"
+                                        aria-label="currency"
+                                        aria-expanded="false">
                                             USD
                                         </button>
                                         <ul class="dropdown-menu"
-                                            aria-labelledby="currencyButton">
+                                        aria-labelledby="currencyButton">
                                             <li><a class="dropdown-item" href="#">GBP</a></li>
                                             <li><a class="dropdown-item" href="#">ISO</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
                                         <button class="btn btn-link dropdown-toggle ht-btn"
-                                                type="button"
-                                                id="languageButton"
-                                                data-bs-toggle="dropdown"
-                                                aria-label="language"
-                                                aria-expanded="false">
+                                        type="button"
+                                        id="languageButton"
+                                        data-bs-toggle="dropdown"
+                                        aria-label="language"
+                                        aria-expanded="false">
                                             English
                                         </button>
                                         <ul class="dropdown-menu"
-                                            aria-labelledby="languageButton">
+                                        aria-labelledby="languageButton">
                                             <li><a class="dropdown-item" href="#">French</a></li>
                                             <li><a class="dropdown-item" href="#">Italian</a></li>
                                             <li><a class="dropdown-item" href="#">Spanish</a></li>
@@ -108,29 +108,41 @@
                                     <ul>
                                         <li>
                                             <a href="#exampleModal"
-                                               class="search-btn bt"
-                                               data-bs-toggle="modal"
-                                               data-bs-target="#exampleModal">
+                                            class="search-btn bt"
+                                            data-bs-toggle="modal"
+                                            data-bs-target="#exampleModal">
                                                 <i class="pe-7s-search"></i>
                                             </a>
                                         </li>
                                         <li class="dropdown d-none d-lg-block">
                                             <button class="btn btn-link dropdown-toggle ht-btn p-0"
-                                                    type="button"
-                                                    id="settingButton"
-                                                    data-bs-toggle="dropdown"
-                                                    aria-label="setting"
-                                                    aria-expanded="false">
+                                            type="button"
+                                            id="settingButton"
+                                            data-bs-toggle="dropdown"
+                                            aria-label="setting"
+                                            aria-expanded="false">
                                                 <i class="pe-7s-users"></i>
                                             </button>
                                             <ul class="dropdown-menu"
-                                                aria-labelledby="settingButton">
-                                                <li>
-                                                    <a class="dropdown-item" href="my-account.html">My account</a>
-                                                </li>
-                                                <li>
-                                                    <a class="dropdown-item" href="login-register.html">Login | Register</a>
-                                                </li>
+                                            aria-labelledby="settingButton">
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <li>
+                                                        <a class="dropdown-item" href="#">@User.Identity.Name</a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" asp-controller="account" asp-action="logout">Logout</a>
+                                                    </li>
+                                                }
+                                                else
+                                                {
+                                                    <li>
+                                                        <a class="dropdown-item" asp-controller="account" asp-action="login" asp-route-returnurl="@Context.Request.Path.Value">Login</a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" asp-controller="account" asp-action="register">Register</a>
+                                                    </li>
+                                                }
                                             </ul>
                                         </li>
                                         <li class="d-none d-lg-block">
